@@ -1,5 +1,0 @@
-https://chatarc.netlify.app
-
-MONGO_URI: mongodb+srv://Ajinjain:Jeongyeonajin@nodeexpressprojects.zlza1xq.mongodb.net/MessageMe?retryWrites=true&w=majority
-
-ORIGIN: chatsetbox.up.railway.app
